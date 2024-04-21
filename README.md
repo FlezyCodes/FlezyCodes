@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**FlezyCodes/FlezyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! I'm Ryan, a passionate programmer and technology enthusiast 🧑‍💻
+ Enthusiastic learner and open-source enthusiast. Feel free to reach out if you'd like to discuss projects or collaboration!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+[![Test](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()  
+![FlezyCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlezyCodes&show_icons=true&theme=radical)
+
+
+## Contact
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raitsu_/)
+## Feedback
+
+If you have any feedback, please reach out to us at flezycodes@gmail.com
+
+
